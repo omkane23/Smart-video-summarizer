@@ -49,6 +49,6 @@ Allow position customization for watermark
 Support for frame interval-based summarization
 
 👨‍💻 Author
-Krushna
+Om
 Built with ❤️ using Streamlit, OpenCV, and MoviePy.
 
